@@ -1,8 +1,8 @@
 # Example of simple automation using JS and "chai", "chromedriver", "selenium-webdriver", "cucumber".
 * the site http://automationpractice.com/
 ```
-$ git clone https://github.com/vsshk/javascript-chai-chromedriver-cucumberjs-selenium-example.git
-$ cd javascript-chai-chromedriver-cucumberjs-selenium-example
+$ git clone https://github.com/vsshk/javascript-chai-chromedriver-cucumberjs-selenium-example-automationpractice.git
+$ cd javascript-chai-chromedriver-cucumberjs-selenium-example-automationpractice
 ```
 #### Dependencies:
 * chromedriver has to be in path https://chromedriver.chromium.org/downloads
