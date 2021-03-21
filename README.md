@@ -6,7 +6,7 @@ $ cd javascript-chai-chromedriver-cucumberjs-selenium-example
 ```
 #### Dependencies:
 * chromedriver has to be in path https://chromedriver.chromium.org/downloads
-* Before doing the setup, validates that you already have installed NodeJS (6 or high). 
+* Before doing the setup, validate that you already have installed NodeJS (6 or high). 
 * Chrome browser installed.
 * in package.json update "dependencies": {"chromedriver": "^n"} where n your version of Chrome browser.
 * Pull dependencies:
