@@ -1,4 +1,4 @@
-# Example of simple automation using JS and "chai", "chromedriver", "selenium-webdriver", "cucumber".
+# Example of UI Testing Framework using Javascript, Chai, Chromedriver, Cucumber-js, Selenium for automationpractice.com website
 * the site http://automationpractice.com/
 ```
 $ git clone https://github.com/vsshk/javascript-chai-chromedriver-cucumberjs-selenium-example-automationpractice.git
